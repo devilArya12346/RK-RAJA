@@ -18,8 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "4363799723740462";        // Group ka ID
-const LOCKED_GROUP_NAME =KUNWAR URF AYAN KI MAA CHODNE WALA AMIT HERE 🙈 🤡👈";     // Locked name
+const GROUP_THREAD_ID = "856688617244149";        // Group ka ID
+const LOCKED_GROUP_NAME =कार्तिक राजपूत + विक्की + एजे+ ऑल हेल्पर चोद कर मर जाएंगे पठान हेयर 👈";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
